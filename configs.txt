@@ -43,3 +43,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&f
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.117:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=-bn-69fLm8-ZIN4AWcFJTvliohVXnevdOK6E0HJF90Y&sid=123c2bff&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%F0%9F%87%BA%F0%9F%87%B8US_3500_%40Surfboardv2ray
 
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7BR_1207_%40Surfboardv2ray
+vless://5e8cf99a-5b91-4852-8f2e-930db11845c1@xn--addscl-um84e.netbazshop.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=decl5.free4all.com.de&sni=decl5.free4all.com.de#%F0%9F%87%A9%F0%9F%87%AAFast3
